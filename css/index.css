@@ -1038,7 +1038,7 @@ textarea{
     top:230px;
 }
 .lianxis{
-    width: 340px;
+    width: 400px;
     height: 350px;
     position: absolute;
     right:-150px;
@@ -1048,7 +1048,7 @@ textarea{
 }
 .active .lianxis{
     opacity:1;
-    right:250px;
+    right:100px;
 }
 .dianhua{
     width: 100%;
@@ -1066,6 +1066,7 @@ textarea{
     float: left;
     line-height:40px;
     margin-top:0px;
+    margin-left:-100px;
 }
 .dianhua span{
     float: left;
@@ -1073,6 +1074,7 @@ textarea{
     color:#fff;
     font-size: 25px;
     line-height:40px;
-    margin-left: 20px;
+    margin-left:20px;
+    margin-top: 0px;
 }
 }

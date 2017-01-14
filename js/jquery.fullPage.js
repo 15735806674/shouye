@@ -703,7 +703,7 @@
                 if(document.readyState === 'complete'){
                     createScrollBarHandler();
                 }
-                //after DOM and images are loaded
+                //after DOM and img are loaded
                 $window.on('load', createScrollBarHandler);
             }else{
                 afterRenderActions();

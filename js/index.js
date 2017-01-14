@@ -32,5 +32,5 @@ window.onload=function(){
         .typetype('超越自我，勇往直前')
         .delay(500)
         .typetype('\n\n自信前行')
-        // .fadeOut()
+
 }
